@@ -1,130 +1,130 @@
 module.exports = [
 	{
-		"quote": "I have just three things to teach: simplicity, patience, compassion. These three are your greatest treasures.",
-		"source": "Lao Tzu"
+		"quote": "I myself have never been able to find out precisely what feminism is: I only know that people call me a feminist whenever I express sentiments that differentiate me from a doormat.",
+		"source": "Rebecca West"
 	},
 	{
-		"quote": "In character, in manner, in style, in all things, the supreme excellence is simplicity.",
-		"source": "Henry Wadsworth Longfellow"
+		"quote": "Though we have the courage to raise our daughters more like our sons, we've rarely had the courage to raise our sons like our daughters.",
+		"source": "Gloria Steinem"
 	},
 	{
-		"quote": "If we don't discipline ourselves, the world will do it for us.",
-		"source": "William Feather"
+		"quote": "We cannot all succeed when half of us are held back.",
+		"source": "Malala Yousafzai"
 	},
 	{
-		"quote": "Rule your mind or it will rule you.",
-		"source": "Horace"
+		"quote": "I am not free while any woman is unfree, even when her shackles are very different from my own.",
+		"source": "Audre Lorde"
 	},
 	{
-		"quote": "All that we are is the result of what we have thought.",
-		"source": "Buddha"
+		"quote": "For most of history, Anonymous was a woman.",
+		"source": "Virginia Woolf"
 	},
 	{
-		"quote": "Doing just a little bit during the time we have available puts you that much further ahead than if you took no action at all.",
-		"source": "Pulsifer, Take Action; Don't Procrastinate"
+		"quote": "Know what? Bitches get stuff done.",
+		"source": "Tina Fey"
 	},
 	{
-		"quote": "Never leave that till tomorrow which you can do today.",
-		"source": "Benjamin Franklin"
+		"quote": "Feminism isn't about making women stronger. Women are already strong. It's about changing the way the world perceives that strength.",
+		"source": "G.D. Anderson"
 	},
 	{
-		"quote": "Procrastination is like a credit card: it's a lot of fun until you get the bill.",
-		"source": "Christopher Parker"
+		"quote": "We've got to get women to sit at the table.",
+		"source": "Sheryl Sandberg"
 	},
 	{
-		"quote": "Someday is not a day of the week.",
-		"source": "Author Unknown"
+		"quote": "I love to see a young girl go out and grab the world by the lapels. Life's a bitch. You've got to go out and kick ass.",
+		"source": "Maya Angelou"
 	},
 	{
-		"quote": "Tomorrow is often the busiest day of the week.",
-		"source": "Spanish Proverb"
+		"quote": "If you obey all the rules, you miss all the fun.",
+		"source": "Katharine Hepburn"
 	},
 	{
-		"quote": "I can accept failure, everyone fails at something. But I can't accept not trying.",
-		"source": "Michael Jordan"
+		"quote": "A lot of people are afraid to say what they want. That's why they don't get what they want.",
+		"source": "Madonna"
 	},
 	{
-		"quote": "There’s a myth that time is money. In fact, time is more precious than money. It’s a nonrenewable resource. Once you’ve spent it, and if you’ve spent it badly, it’s gone forever.",
-		"source": "Neil A. Fiore"
+		"quote": "The best protection any woman can have is courage.",
+		"source": "Elizabeth Cady Stanton"
 	},
 	{
-		"quote": "Nothing can stop the man with the right mental attitude from achieving his goal; nothing on earth can help the man with the wrong mental attitude.",
-		"source": "Thomas Jefferson"
+		"quote": "The questino isn't who's going to let me; it's who is going to stop me.",
+		"source": "Ayn Rand"
 	},
 	{
-		"quote": "There is only one success--to be able to spend your life in your own way.",
-		"source": "Christopher Morley"
+		"quote": "The most common way people give up their power is by thinking they don't have any.",
+		"source": "Alice Walker"
 	},
 	{
-		"quote": "Success is the good fortune that comes from aspiration, desperation, perspiration and inspiration.",
-		"source": "Evan Esar"
+		"quote": "I hate to hear you talk about all women as if they were fine ladies instead of rational creatures. None of us want to be in calm waters all our lives.",
+		"source": "Jane Austen"
 	},
 	{
-		"quote": "We are still masters of our fate. We are still captains of our souls.",
-		"source": "Winston Churchill"
+		"quote": "Feminism is the radical notion that women are human beings.",
+		"source": "Cheris Kramarae"
 	},
 	{
-		"quote": "Our truest life is when we are in dreams awake.",
-		"source": "Henry David Thoreau"
+		"quote": "No woman can call herself free who does not control her own body.",
+		"source": "Margaret Sanger"
 	},
 	{
-		"quote": "The best way to make your dreams come true is to wake up.",
-		"source": "Paul Valery"
+		"quote": "Women may be the one group that grows more radical with age.",
+		"source": "Gloria Steinem"
 	},
 	{
-		"quote": "Life without endeavor is like entering a jewel mine and coming out with empty hands.",
-		"source": "Japanese Proverb"
+		"quote": "In every generation there is a chosen one. She alone will stand against the vampires the demons and the forces of darkness. She is the slayer.",
+		"source": "Joss Whedon"
 	},
 	{
-		"quote": "Happiness does not consist in pastimes and amusements but in virtuous activities.",
-		"source": "Aristotle"
+		"quote": "Never did the world make a queen of a girl who hides in houses and dreams without traveling.",
+		"source": "Roman Payne"
 	},
 	{
-		"quote": "By constant self-discipline and self-control, you can develop greatness of character.",
-		"source": "Grenville Kleiser"
+		"quote": "I'm not a humanitarian, I'm a hell-raiser.",
+		"source": "Mary Harris Jones"
 	},
 	{
-		"quote": "The difference between a successful person and others is not a lack of strength, not a lack of knowledge, but rather a lack in will.",
-		"source": "Vince Lombardi Jr."
+		"quote": "I'm not going to limit myself just because people won't accept the fact that I can do something else.",
+		"source": "Dolly Parton"
 	},
 	{
-		"quote": "At the end of the day, let there be no excuses, no explanations, no regrets.",
-		"source": "Steve Maraboli"
+		"quote": "Whisky, gambling and Ferraris are better than housework.",
+		"source": "Francoise Sagan"
 	},
 	{
-		"quote": "Inaction will cause a man to sink into the slough of despond and vanish without a trace.",
-		"source": "Farley Mowat"
+		"quote": "I want a Zero Tolerance policy on All The Patriarchal Bullshit.",
+		"source": "Caitlin Moran"
 	},
 	{
-		"quote": "True freedom is impossible without a mind made free by discipline.",
-		"source": "Mortimer J. Adler"
+		"quote": "Great minds may have cold hearts. Form but no color. It is an incompleteness. And so they are afraid of any woman who both thinks and feels deeply.",
+		"source": "Sena Jeter Naslund"
 	},
 	{
-		"quote": "The most powerful control we can ever attain, is to be in control of ourselves.",
-		"source": "Chris Page"
+		"quote": "Some leaders are born women.",
+		"source": "Geraldine Ferraro"
 	},
 	{
-		"quote": "Idleness is only the refuge of weak minds, and the holiday of fools.",
-		"source": "Philip Dormer Stanhope"
+		"quote": "I would rather be a bad feminist than no feminist at all.",
+		"source": "Roxane Gay"
 	},
 	{
-		"quote": "This is your life and it's ending one minute at a time.",
-		"source": "Tyler Durden, Fight Club"
+		"quote": "Human rights are women's rights, and women's rights are human rights.",
+		"source": "Hillary Clinton"
 	},
 	{
-		"quote": "You create opportunities by performing, not complaining.",
-		"source": "Muriel Siebert"
+		"quote": "I will not have my life narrowed down. I will not bow down to somebody else's whim or to someone else's ignorance.",
+		"source": "bell hooks"
 	},
 	{
-		"quote": "Great achievement is usually born of great sacrifice, and is never the result of selfishness.",
-		"source": "Napoleon Hill"
+		"quote": "I love argument, I love debate. I don't expect anyone to just sit there and agree with me, that's not their job.",
+		"source": "Margaret Thatcher"
 	},
 	{
-		"quote": "Whether you think you can, or you think you can't, you're right.",
-		"source": "Henry Ford"
+		"quote": "I am not afraid of storms, for I am learning how to sail my ship.",
+		"source": "Louisa May Alcott"
 	},
 	{
-		"quote": "Even if I knew that tomorrow the world would go to pieces, I would still plant my apple tree.",
-		"source": "Martin Luther"
+		"quote": "Courage is the price that life exacts for granting peace.",
+		"source": "Amelia Earhart"
 	}
 ];
