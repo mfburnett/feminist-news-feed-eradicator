@@ -48,7 +48,7 @@ module.exports = [
 		"source": "Elizabeth Cady Stanton"
 	},
 	{
-		"quote": "The questino isn't who's going to let me; it's who is going to stop me.",
+		"quote": "The question isn't who's going to let me; it's who is going to stop me.",
 		"source": "Ayn Rand"
 	},
 	{
