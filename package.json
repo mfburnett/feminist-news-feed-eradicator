@@ -1,11 +1,11 @@
 {
-  "name": "news-feed-eradicator",
-  "title": "News Feed Eradicator for Facebook",
+  "name": "feminist-news-feed-eradicator",
+  "title": "Feminist News Feed Eradicator for Facebook",
   "id": "jid1-oWTXWc3MRzRuiQ",
-  "description": "Find yourself spending too much time on Facebook? Eradicate distractions by replacing your entire news feed with an inspiring quote",
-  "author": "Jordan West",
+  "description": "Find yourself spending too much time on Facebook? Eradicate distractions by replacing your entire news feed with an empowering quote. Original: https://github.com/jordwest/news-feed-eradicator",
+  "author": "Mackenzie Burnett",
   "license": "MIT",
-  "version": "0.6.3",
+  "version": "0.6.4",
   "devDependencies": {
     "babel-core": "^5.8.22",
     "babel-loader": "^5.3.2",
