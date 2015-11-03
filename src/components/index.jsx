@@ -71,7 +71,7 @@ var NewsFeedEradicator = React.createClass( {
 				{ quoteDisplay }
 				<a href="#"
 					className="nfe-info-link"
-					onClick={ this.onClickLogo }>News Feed Eradicator :)</a>
+					onClick={ this.onClickLogo }> News Feed Eradicator </a>
 			</div>
 		);
 	}
