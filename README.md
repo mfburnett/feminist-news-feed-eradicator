@@ -4,11 +4,7 @@ Feminist News Feed Eradicator
 A browser extension that deletes your Facebook news feed
 and replaces it with an empowering quote. Forked from the original News Feed Eradicator (jordwest).
 
-[Install from Chrome Web Store](https://chrome.google.com/webstore/detail/news-feed-eradicator-for/fjcldmjmjhkklehbacihaiopjklihlgg?hl=en)
-
-[Download Firefox add-on package](https://github.com/jordwest/news-feed-eradicator/releases/download/v0.6.2.3/Firefox.Plugin.-.news-feed-eradicator-0.6.3.xpi)
-
-![Screenshot](https://raw.githubusercontent.com/jordwest/news-feed-eradicator/master/assets/screenshot.jpg)
+![Screenshot](http://i.imgur.com/W7FJo8R.png?1)
 
 Development
 -----------
